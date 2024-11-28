@@ -1,0 +1,4 @@
+format: jb-book
+root: lab_12.ipynb
+chapters:
+  - file: project_3.ipynb
